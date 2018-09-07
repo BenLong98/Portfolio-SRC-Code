@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 60a8a211b9fd12b4194011b0d66b520a
+timeCreated: 1512261526
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Toplayer: {fileID: 1308989853488854, guid: 862a97bfaf5475342904b8040a60b37d, type: 2}
+  - Dirtfiller: {fileID: 1661071928323026, guid: 3a6c7bb8eabbd67429dcaf891c31a34f,
+      type: 2}
+  - Stone: {fileID: 1994767549870340, guid: 4e303c60008fd1f47b6e3f6da6a4ccbf, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
